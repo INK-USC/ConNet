@@ -1,0 +1,883 @@
+Digital Humanities Clinics - Leading Dutch Librarians into DH Michiel Cock
+m.p.cock@vu.nl Vrije Universiteit Amsterdam, the Netherlands Lotte Wilms
+lotte.wilms@kb.nl National Library of the Netherlands, the Netherlands In 2015,
+an initiative was started to set up a Dutch speaking DH+Lib community in the
+Netherlands and Belgium, based on the example of the American communal space of
+librarians, archivists, LIS graduate students, and information specialists to
+discuss topics ‘Where the Digital Humanities and Libraries meet’. At the initial
+meeting it became apparent that most participants were there to learn more about
+digital humanities and were not (yet) in the situation where they were able to
+offer expertise on the subject. On the administrative level, the directors of
+the libraries participating in the consortium of Dutch academic libraries (UKB)
+also expressed the wish that librarians become more fluent in DH. A year later,
+the National Library of the Netherlands (Koninklijke Bibliotheek), and the
+University Library of the Vrije Universiteit Amsterdam again concluded that
+librarians at their institutes who wanted to get involved in DH needed more
+training to adequately support researchers and students in this field. Therefore
+both institutes joined forces to develop a set of clinics on DH for librarians.
+The two institutes were later joined by the Leiden University Libraries. We see
+this as the ideal opportunity to provide these educative sessions not only to
+our own librarians, but also to the academic librarians of other Dutch research
+libraries. In essence, we want to teach our country’s librarians the ins and
+outs of DH in order for them to take up their natural role of facilitating and
+supporting research and ideally become the research partner needed in DH
+projects. The aim of these clinics is to provide basic methodological
+competencies and technical skills in DH, for a diverse group of librarians,
+consisting of both subject and technical librarians with basic technical skills.
+The content of these sessions should enable them to provide services to
+researchers and students, identify remaining gaps in knowledge or skills that
+they could address by self-directed learning and (perhaps) to automate their
+daily library work. We are not setting out to turn them into programmers or data
+crunchers, but want to boost their knowledge level to where they feel
+comfortable providing information about DH projects, follow the literature and
+research, follow online tutorials and hopefully take up the challenge of
+finishing this professional development by engaging with the DH community. In
+order to design this curriculum we follow a four step approach with a Working
+Out Loud - principle(Williams, 2010): Desk research about what being a DH
+librarian entails (e.g. Hartsell-Gundy et al., 2015; Mulligan, 2016; also see
+the Zotero library of the LIBER Digital Humanities working group); Identify
+possible subjects, based on experience, a comparison of existing teaching
+material related to DH (e.g. The Programming Historian, the Digital Scholarship
+Training Programme at the British Library and Columbia University's Developing
+Librarian project) and the TaDiRAH taxonomy of research activities; Get feedback
+from researchers on possible subjects, based on the knowledge and skills they
+feel librarians need; Get feedback from librarians on possible subjects, based
+on already known gaps in their knowledge and skills. With these in hand, we will
+design the curriculum of clinics, based on the method of' constructive
+alignment' (Biggs et al., 2011), to make sure that the intended learning
+objectives and the teaching / learningactivities stay aligned. Our plan is to
+organize a maximum of 6 clinics, each one full day. Each day starts with one or
+more lectures by researchers, that address the conceptual knowledge needed. The
+afternoon sessions will be devoted to the hands-on training of skills, following
+the Library Carpentry model as closely as possible. By having researchers
+provide the lecture sessions, we hope to fuel the enthusiasm of the librarians
+with the inspiration of direct contact with researchers and to provide access to
+a network within and across universities. With these clinics, we hope to
+initiate a stream of DH activities in Dutch universities, making access to
+support easier for new digital scholars. The poster at DH2017 will present the
+curriculum, its position in the international context and offer the lessons
+learned from both the design process and the first clinics. We welcome
+discussion about our efforts and the possibilities of applying this in other
+contexts. 
+
+Emperor Norton Joshua Abraham Norton (c. 1818 – January 8, 1880), known as
+Emperor Norton, was a citizen of San Francisco, California, who in 1859
+proclaimed himself "Norton I, Emperor of the United States". He later expanded
+his pretense by claiming to be "Protector of Mexico" as well. Born in England,
+Norton spent most of his early life in South Africa. After the death of his
+mother in 1846 and his father in 1848, he sailed west, arriving in San Francisco
+possibly in November 1849. Norton initially made a living as a businessman, but
+he lost his fortune investing in Peruvian rice. After he lost a lawsuit in which
+he tried to void his rice contract, Norton's public prominence faded. He
+reemerged in September 1859, laying claim to the position of Emperor of the
+United States. He had no political power, and his influence extended only so far
+as he was humored by those around him; nevertheless, he was treated
+deferentially in San Francisco, and currency issued in his name was honored in
+the establishments he frequented. Though some considered him insane or
+eccentric, citizens of San Francisco celebrated his regal presence and his
+proclamations, such as his order that the United States Congress be dissolved by
+force and his numerous decrees calling for a bridge connecting San Francisco to
+Oakland, and a corresponding tunnel to be built under San Francisco Bay. Long
+after his death, similar structures were built in the form of the San Francisco
+– Oakland Bay Bridge and the Transbay Tube, and there have been campaigns to
+rename the bridge "The Emperor Norton Bridge". On January 8, 1880, Norton
+collapsed at the corner of California and Dupont (now Grant) streets and died
+before he could be given medical treatment. Nearly 30,000 people packed the
+streets of San Francisco to pay him homage at his funeral. Norton has been
+immortalized as the basis of characters in the literature of writers Mark Twain,
+Robert Louis Stevenson, Christopher Moore, Morris and Goscinny, Selma Lagerlöf,
+and Neil Gaiman. Norton I, Emperor of the United States, photograph, c. 1871 –
+72 Declares himself emperor Emperor Joshua Norton, in full military regalia,
+circa 1880 or earlier By 1859, Norton had become completely disgruntled with
+what he considered the inadequacies of the legal and political structures of the
+United States. On September 17, 1859, he took matters into his own hands and
+distributed letters to the various newspapers in the city, proclaiming himself
+"Emperor of these United States": At the peremptory request and desire of a
+large majority of the citizens of these United States, I, Joshua Norton,
+formerly of Algoa Bay, Cape of Good Hope, and now for the last 9 years and 10
+months past of S.F., Cal., declare and proclaim myself Emperor of these U.S.;
+and in virtue of the authority thereby in me vested, do hereby order and direct
+the representatives of the different States of the Union to assemble in Musical
+Hall, of this city, on the 1st day of Feb. next, then and there to make such
+alterations in the existing laws of the Union as may ameliorate the evils under
+which the country is laboring, and thereby cause confidence to exist, both at
+home and abroad, in our stability and integrity. — NORTON I, Emperor of the
+United States. The announcement was first reprinted for humorous effect by the
+editor of the San Francisco Bulletin. Norton would later add "Protector of
+Mexico" to this title. Thus commenced his unprecedented and whimsical 21-year
+"reign" over America. One of Norton's undated proclamations In his
+self-appointed role of emperor, Norton issued numerous decrees on matters of the
+state. After assuming absolute control over the country, he saw no further need
+for a legislature, and on October 12, 1859, he issued a decree formally
+abolishing the United States Congress. In it, Norton observed: ... fraud and
+corruption prevent a fair and proper expression of the public voice; that open
+violation of the laws are constantly occurring, caused by mobs, parties,
+factions and undue influence of political sects; that the citizen has not that
+protection of person and property which he is entitled. Norton ordered all
+interested parties to assemble at Platt's Music Hall in San Francisco in
+February 1860 to "remedy the evil complained of". In an imperial decree the
+following month, Norton summoned the Army to depose the elected officials of the
+U.S. Congress: WHEREAS, a body of men calling themselves the National Congress
+are now in session in Washington City, in violation of our Imperial edict of the
+12th of October last, declaring the said Congress abolished; WHEREAS, it is
+necessary for the repose of our Empire that the said decree should be strictly
+complied with; NOW, THEREFORE, we do hereby Order and Direct Major-General
+Scott, the Command-in-Chief of our Armies, immediately upon receipt of this, our
+Decree, to proceed with a suitable force and clear the Halls of Congress. 
+
+The Beast I was thirteen. It was spring, the barren time in March when you can
+not be sure if it is really warmer, but you are so desperate for change that you
+tell yourself the mud at the edge of the sidewalk is different from winter mud
+and you are sure that the smell of wet soil has suddenly a bit of the scent of
+summer rains, of grass and drowned earthworms. And it has, because it is spring
+and inside the ground something is stirring. I was wearing a yellow linen dress
+which my mother had picked out and which I therefore disliked although I knew it
+flattered me. My shoes were white and I was concentrating on keeping them out of
+the mud. My father and I were going to mass — my mother did not go; she was
+Protestant. My father put his hand on top of my hair, his palm on my head, and I
+could feel the bone of my skull and my skin and his hot palm, so dry and strong.
+When I was a little girl, he did that often, and called me Muscles. He had not
+called me Muscles or put his hand on my head for a long time. I could not help
+arching my back a little, I wanted to push against his hand like a cat but the
+instinct that comes with being thirteen, the half-understood caution that makes
+a girl timid, or wild, the shyness told me to just walk. I wanted to feel the
+rough edge of the pocket of his coat against my cheek, but I was too tall. I
+wanted to be seven again, and safe. But I still wanted to push against his hand
+and put my hand in his pocket and steal the leather palmed glove, that secret
+animal. Instead I went into the church, took a Bulletin, dipped my finger in
+Holy Water and genuflected. The inside of the church smelled like damp wood and
+furniture polish, not alive at all. My father took off his coat and draped it
+over the edge of the pew and when I came back from communion I stole his glove.
+The paper taste of the wafer was still in my mouth and I took a deep breath of
+the leather. It smelled like March. We walked back through the school because it
+was drizzling, my father tall in his navy suit and my shoes going click on the
+linoleum. There were two classes of each grade, starting at the sixth and going
+down to the first. The hall ended in a T and we went left through the gym,
+walked underneath the bleachers and stood next to the side door, waiting for the
+rain to stop. It was dark under the bleachers. My father was a young man,
+thirty-five, younger because he liked to be outside, to play softball on
+Saturday and to take my mother and me camping on vacation. He stood rocked back
+on his heels with his coat thrown over his shoulders and his hands in his
+pockets. I thought of bacon and eggs, toast with peach jam out of the jar. I was
+so hungry. The space under the bleachers was secret and dark. There were things
+in the shadows; a metal pail, a mop, rags. Next to the door was a tall
+wrought-iron candle holder — the kind that stood at either end of the altar.
+There was no holder and the end was jagged. On the floor was a wrapper from a
+French Chew. They were sold at eighth-grade basketball games on Friday nights.
+The light from the door made the shadows under the bleachers darker, the long
+space stretched far away. I heard the rain and the faint rustle of paper and
+smelled damp concrete. I did not go near my father but kept my hand in my
+pocket, feeling the soft leather glove. There was a rustling on the concrete and
+the drizzle of soft rain. I wondered if anyone ever went back under the
+bleachers, if there were crickets or mice there. The rustling might have been
+mice. I wished the rain would stop. I wanted to go home. I made noises with my
+heels but they were too loud so I stopped. Something else clicked and I tried to
+see what it was but couldn’t see anything. It wasn’t as loud as my heels. My
+father cleared his throat, looking out the door. I imagined a man down there in
+the dark, an escaped convict or a madman. It had nearly stopped raining. In
+fifteen minutes we would be home and my mother would fry eggs. I heard a noise
+like paper. My father heard it, too, but he pretended not to, at least he didn’t
+turn his head. And there was a heavier sound, a rasp, like a box pulled over
+concrete. I looked at my father but he didn’t turn his head. I wished he would
+turn his head. There was a click again and the rustle, and I could not think of
+what it could be. I had no explanation for the particular combination of sounds.
+No doubt there was, some two things that happened to be making noises at the
+same time. Once in a fever I heard thousands of birds outside my window and I
+was terrified that they would fling themselves through the glass and attack me,
+but it was only the rain on the eaves. 
+
+Wikinews interviews meteorological experts on Cyclone Phalin File photo of
+interviewee David Titley. Image: David Titley. Cyclone Phailin has winds that
+have been measured at 200 km / h, as it surges over land will it begin to lose
+strength? Yes, all tropical cyclones are driven by high heat content waters.
+Once a storm moves over any appreciably sized piece of land, the moisture source
+is removed and the storm begins to dissipate. As of the last advisory, T C
+Phailin has winds of 190 kilometers per hour and has moved inland, headed on a
+northwest track. That is a Category 3 storm. The forecast is for a continued
+decline in strength to a tropical storm within 24 hours and a tropical
+depression within 36 hours. However, there will be very heavy rains and flooding
+along its path. Yes, it will loose strength steadily as more and more of this
+swirling system moves from being over ocean to being over land. This occurs for
+two reasons: As it moves over land, it is cut off from the source of energy
+driving the storm [which is] the evaporation of water from the warm sea surface;
+Increased friction - the ocean surface is much, much smoother than the land
+surface. Tropical cyclones are sustained by a form of energy called latent heat,
+which is released by moisture evaporated from the ocean that condenses to form
+rain. As tropical cyclones make landfall, this energy source is cut-off and they
+rapidly lose strength as they move over land. Yes, the Cyclone is almost certain
+to lose strength as it surges over land. Cyclones gather their strength through
+scraping moisture and heat from warm ocean water that it is not the case over
+land. In the mean time, much stronger friction over land quickly reduces their
+strength. Yes. All tropical cyclones lose strength once they make landfall.
+However, they can remain dangerous storms due to very heavy rains and subsequent
+landslides, and river flooding. Phailin's winds will rapidly weaken as it pushes
+inland. Once Cyclone Phailin comes on shore it will immediately begin to lose
+strength. However, and this is important, it still will contain lots of rainfall
+making flooding an almost certainty. File photo of interviewee R Saravanan.
+Image: R Saravanan. A previous cyclone in 1999 in the Bay of Bengal area of
+India left 10,000 people dead. Is the Indian government well prepared to deal
+with this cyclone? I have not followed that aspect of the societal response for
+the present storm. However, historically, there have been several events that
+should cause a societal response. Hopefully, we all learn from past mistakes.
+The history of strong cyclones and death in the region is notable, with at least
+5 large cyclone events in the past 35 years with 10,000 and as many as 300,000
+people killed, millions left homeless and estimated damages as high as US$ 10
+billion. I don't have enough information to answer this question, one way or the
+other. From all the press reports that I have read, the Indian government
+appears to have taken the threat of Cyclone Phailin very seriously indeed. The
+government has been much more pro-active in preparing for this cyclone than in
+the past. The forecasts of cyclone track and intensity have been fairly
+accurate. Mandatory mass evacuations have been carried out, which is essential
+to minimize loss of life in these situations. Unfortunately, extensive property
+damage is bound to occur even with the best preparation. My knowledge of the
+responsiveness of the Indian government to this storm is purely from the cyber
+space. I heard that they orchestrated the largest people evacuation to a natural
+disaster in Indian history. This shall be applauded given the size and strength
+of Phailin. I visited the damaged area of the 1999 storm near Bhubaneshwar in
+the summer of 2012 for an invited symposium and summer school on tropical
+cyclones [...] sponsored by the Indian government. Given the living standard and
+residence of people living near the coastal areas in this region, the evacuation
+is certainly necessary and essential to save lives. I cannot comment directly on
+how the Indian government was prepared for this cyclone. However, the news
+reports (BBC etc.) were very encouraging in that the authorities were reportedly
+making strenuous efforts to evacuate the population from near the coast and
+areas that are prone to flooding. Water is the main killer in these storms. From
+all reports that I have seen, the government was well prepared for this cyclone.
+For this question I don't know the 'preparedness' of the Indian gov't to deal
+with this. 
+
+Wikinews interviews Mario J. Lucero and Isabel Ruiz of Heaven Sent Gaming
+General questions What is Heaven Sent Gaming? Heaven Sent Gaming is basically me
+and Isabel, I'm Mario J. Lucero. And, I'm Isabel Ruiz. And, together we formed
+this thing, it's sort of like an entertainment team. We started it basically,
+because I wanted to - I wanted to work with Isabel on a lot of projects that we
+had going on together. We were coming with comics, like, left and right, we were
+coming up with things like Karis, in high school she came up with that one, I
+came up with an individual story called Thad's World Destruction and, she wanted
+to illustrate it, and so, that's the way we ended up doing it. Yep, we like to
+just make our own original content, and, yep, that's what we wanted to do. How
+did you two meet? We met back in high school. In this private, tiny-tiny private
+school of 50 students. But, before hand in middle school, I kept on hearing
+about this guy named Mario, and he kept on hearing about me, this girl named
+Isabel. And, everyone, all of our friends and all of our acquaintances would
+say," Hey, you'd get along with him really well." So before hand I kinda knew
+about him, but I never met him. And one of our friends, our common friends, he
+introduced us during study hall, and we just kind of hit it off from there. It's
+true. Who else is involved in this project? Currently, we 're in talks with
+people. There's Jeff [Drake], who is behind the camera. Right now, yeah, he's
+helping us right now. We 're talking about doing some individual web series,
+video series. Josh Kindig, he's coming on board, he has some ideas for that too,
+he wants to take over "aywv" and do more gaming news. There's of course Jason,
+who is our editor and he's the one who writes dD. Digital Domain What is your
+purpose behind this venture? Well, back in college, back in Collins College,
+Isabel and I, we had met like she said at Sandia View Academy, and we went off
+to college together in Arizona; and ... (how do I best explain this?) Basically,
+she came up with a few class projects, and I came up with a few class projects;
+we started working with a few of our friends, and colleagues and whatnot. Those
+included Drew Cass, Devin Thurlow, people like that. She had several ideas, and
+she used to draw a lot in the sketchbook, she used to have this thick sketchbook
+that she used to carry around with her everywhere, where she'd draw these
+different characters and whatnot; and she was always really shy to show that off
+to people, and I wanted to help her show that stuff, and I wanted to bring it
+out to the world. I was a writer, and she always liked my writings, so I was
+like, let's just get both of our things together, and let's get this done. And
+for me, what I want the purpose to be, is to inspire people. To bring a little
+more light to the world is what I want, out of all of this. And what was the
+verse that we have? First Corinthians 9: 25? Yes. Yeah, exactly. We just want to
+be able to bring, like she said, bring light into the entertainment and into the
+media industry, specifically is what we do. Yeah. 
+
+The future of the peace process in Israel "The future is only peace. The problem
+is how long will it take and how many victims will it call for." Shimon Peres
+image: David Shankbone. Mr. President, as a Nobel Peace Prize recipient and as
+one of the fathers of the modern peace process in Israel, do you still think
+that there is a future to the peace process? The future is only peace. The
+problem is how long will it take and how many victims will it call for. Why do I
+say peace? Because when you look historically, at the development of humanity,
+most of our lives we are living on the land. The history is written with red
+ink. The reason for it is because people were fighting for our land, either
+defending it or extending it, because that was the main source. The land, the
+natural resources, the markets, all these go together. The minute the land was
+replaced by science, what is there to fight about? Armies cannot conquer
+science. Customs cannot check what a scientist has in his mind, they can see
+what he has in his pocket but not what he has in his mind so it’s uncontrolled;
+it means that borders aren’t important and distances aren’t important. How do
+you approach the difficult challenge of talking to the Palestinians when, in the
+end, they don’t want Israel to exist. How do you come to an understanding to
+make peace possible? Well, what is the problem? I mean, is the problem national,
+say between Jews and Arabs; or is it a matter of generations between an old age
+and a new age? You see, the terrorists are protesting against modernity. They
+think that modernity may endanger their tradition. They are simply afraid and
+hate modernity. They consider modernity as their enemy, but then they have two
+problems. First of all, can they exist on tradition? They cannot. Sooner or
+later they will have to enter the new age. All the talks about nationalities,
+etcetera, well, the new age has very little patience for history. History is
+becoming more and more irrelevant. How do you feel about that? Well, I
+distinguish between two histories, the spiritual and the material. Or the
+history of events and the history of values. The history of values is okay
+because wisdom is ageless; it doesn’t grow old, like material. But events are
+totally unimportant for 2 reasons. First, the event is unimportant. Tell me,
+what events is today important such as how many elephants Hannibal had on the
+Alps, when you can have helicopters? Why should I bother my children with all
+this nonsense? What sort of a nose did Cleopatra have? God, I don’t know! You
+can invite people to war over noses, but nobody will go to fight for noses any
+more. On the other hand, there are already machines that can replace our memory.
+Why should I bother my child with memory when he can buy a computer that will
+remember everything you asked him to remember? The waning importance of history
+Isn’t the answer to that question that wise decisions are made with a basis from
+memory? Although a computer can have … No, no. Forget memory. Look, the new age
+is unprecedented. When something is unprecedented, it means it doesn’t have a
+past, doesn’t have a history. It’s totally oriented on the future. And whoever
+dwells in the past, doesn’t understand the future because the past is full of
+prejudices, of commitments. It arrests us. And then you say you won’t commit a
+mistake, so you’ll commit new mistakes. It doesn’t matter. `` I say brains is
+the greater producer of wealth, not oil. It’s limitless, and you’ll see that the
+GNP of Israel is very close to the Saudis’. So they are 3 times larger than us
+and they have all the oil in the world. We have brains." — Peres, on whether the
+Arab states' oil wealth will eclipse Israel's prominence in the region. What
+about the adage, “Those who forget history are doomed to repeat it”? So they
+will make new mistakes. Mistake is inevitable as long as there are human beings.
+But you cannot repeat mistakes because the world is not built on repetition;
+it’s built on mutation. Don’t you think Darfur is repetition? I think Darfur is,
+again, the last, or among the last battles between old and new. What are they
+fighting for? What are they killing killing killing over? They don’t carry
+futures. It’s not a mistake. It belongs to a past. It doesn’t have a moment. I
+am sure that the reasons for war are over, even though still there are wars
+which are an inertia from the past, a continuation that doesn’t make sense. I’m
+answering your question. The problem is how to enable the whole world to enter
+the new future, including the Arabs. And there are already Arabs who did it.
+Look at Turkey, who is knocking on the doors of the united Europe. Why? It’s not
+a geographic endeavor, it is an intellectual endeavor. They say you can be
+Muslim and modern. 
+
+Scientology defector arrested after attempting to leave organization Saturday,
+October 9, 2010 Recent reports have revealed that a defector from the elite
+group within Scientology called the Sea Org was first persuaded to travel back
+to a management building for the organization in California, where he was
+interrogated by an attorney for Scientology and then arrested. Daniel Montalvo
+in September 2010, after having left the elite group within Scientology called
+the Sea Org. Montalvo is holding a copy of the book Blown for Good critical of
+Scientology, written by Marc Headley. Image: Mark Rathbun. Daniel Montalvo, 19,
+a member of Scientology all his life, was arrested after leaving its elite group
+the Sea Org. He was released on US$ 20,000 bail on Thursday. Montalvo was
+charged with taking hard drives and a zip drive from the Scientology
+organization after leaving the Sea Org group. The Sea Org requires members to
+sign a billion-year-contract, agreeing to work for the organization founded by
+science fiction writer L. Ron Hubbard for multiple lifetimes. Members of the Sea
+Org live a strict lifestyle – with little income, small diet provided and
+significant time invested in work per day. Montalvo had read an article in the
+Scientology propaganda publication Freedom Magazine, which attacked high-ranking
+defectors from the organization including Tom Devocht and Mark Rathbun. Montalvo
+had known Devocht personally, and came to the conclusion that the claims made
+about him in the Freedom article were lies. Montalvo was subsequently motivated
+to seek out information about Scientology on the Internet, and came upon a blog
+written by Rathbun. Montalvo contacted former members of Scientology, who helped
+him leave the organization and get in touch with Devocht. He traveled to Florida
+to meet with Devocht, who had told Montalvo he would assist him with future
+employment and housing. According to Rathbun the Scientology property in
+question was returned by mail to the organization by Montalvo shortly after he
+left the Sea Org. Scientology officials have stated they have not received the
+materials. After calling the Scientology organization by phone to attempt to
+speak with his mother, Montalvo was instead put through to a Scientology
+attorney, Kendrick Moxon. Rathbun wrote, "Moxon proceeded to lie to Daniel that
+the hard drives were never returned, and made a convincing case (not difficult
+to do with a 19 year old who does not even know the three branches of
+government) that Daniel would be put behind iron bars for a good long time,
+UNLESS of course, he returned and cooperated with Moxon and routed out
+properly." To "route out" in Scientology jargon refers to the member who wishes
+to leave proceeding through a set of interrogative exit interviews while
+attached to the Scientology device called the E-meter. According to Rathbun, a
+detective for the Los Angeles Sheriff's office was provided with material from
+Scientology to build a case against Montalvo. Rathbun stated, "Daniel was picked
+up by an investigator in a black car with blacked out windows. Instead of being
+taken to a hotel, where he could route out as promised, he was taken to the
+Century City Towers. He was deposited in an office on the 33rd floor where a
+pricy church lawyer interrogated him for two hours." Rathbun asserted that
+Scientology officials, "... plied the Sheriff's detective with a grand
+conspiracy theory, characterizing me as the 'anti-christ' of the church of
+Scientology. ... The next thing Daniel knows he's in a cell where he sat for the
+next 30 hours." Steve Whitmore, a representative for the LA Sheriff's office,
+told LA Weekly in a statement that the case involving Montalvo was being dealt
+with as charges relating to grand theft. Whitmore stated Montalvo left
+Scientology-related employment in Los Angeles on September 24. On September 29,
+Scientology officials went to the East Los Angeles sheriff's station where they
+claimed Montalvo allegedly left the organization with computer hard drives.
+Whitmore told LA Weekly that on October 6 after traveling back from Florida,
+Montalvo "walked into lobby of the East L.A. station and turned himself in", and
+told the police, "everything he did". Whitmore stated to LA Weekly that the
+alleged crime involved five hard drives each of $ 200 in value. Montalvo has
+been assisted by former members of Scientology, including musician Tiziano Lugli
+and actor Jason Beghe. Rathbun requested donations via a statement made on his
+blog, in order to help Montalvo with his legal defense financing. He described
+Montalvo as an individual, "facing the penitentiary in thanks for the following
+sins: a) Leaving a lifehood of slavery to get a taste of freedom and the world.
+b) Refusing - despite every provocation and incentive and threat - to frame
+three guys who went out of their ways (and dipped into their pockets) to help
+the kid achieve that freedom." 
+
+Parents prosecuted after homeopathic treatment leads to daughter's death Friday,
+May 8, 2009 Thomas Sam, 42, and his wife Manju Sam, 36, from Sydney, Australia,
+are undergoing trial for manslaughter by gross negligence for the death of their
+nine-month-old child, Gloria. She died from infection caused by severe eczema
+after they shunned effective conventional medical treatments for homeopathy, a
+form of alternative medicine that has been described as pseudoscience. Articles
+in peer-reviewed academic journals including Social Science & Medicine have
+characterized homeopathy as a form of quackery. An example of severe eczema.
+Image: Jambula. Gloria developed severe eczema at the age of four months and the
+parents were advised to send the child to a skin specialist. Thomas Sam, a
+practising homeopath, instead decided to treat his daughter himself. His
+daughter's condition deteriorated, to the point that the baby spent all her
+energy battling the infections caused by the constant breaking of the skin,
+leading to severe malnutrition and, eventually, her death. By the end, Gloria's
+eczema was so severe that her skin broke every time her parents changed her
+clothes or nappy, and in the words of the Crown prosecutor, Mark Tedeschi, QC,
+"Gloria spent a lot of the last five months of her life crying, irritable,
+scratching and the only thing that gave her solace was to suck on her mother's
+breast." Gloria also became unable to move her legs. Mr. Tedeschi also told the
+court that, over the last five months of her life," Gloria's eczema played a
+devastating role in her overall health and it is asserted by the Crown that both
+her parents knew this and discussed it with each other." However, despite their
+child's severe illness, and her lack of improvement, the Sams continued to shun
+conventional medical treatment, instead seeking help from other homeopaths and
+naturopaths. Gloria temporarily improved during the rare times they used
+conventional treatments, but they soon dropped them in favour of homeopathy, and
+she consistently worsened. Allegedly, Thomas' sister pleaded with him to send
+Gloria to a conventional medical doctor, but he replied "I am not able to do
+that". The parents are also accused of putting their social life ahead of their
+child, taking her on a trip to India and leaving her to servants while embarking
+on a busy social schedule, and giving her homeopathic drops instead of using the
+prescription creams they had been given. Gloria was finally taken to the
+emergency department shortly before her death. By this time," her skin was
+weeping, her body malnourished and her corneas melting", according to the Sydney
+Morning Herald. Speaking in the parents' defense, Tom Molomby, SC, said that, as
+the parents came from India, where homeopathy is in common use, they should be
+declared not guilty due to cultural differences. Homeopathy is a form of
+alternative medicine which treats patients with massively diluted forms of
+substances that, if given to a healthy person undiluted, would cause symptoms
+similar to the disease. Typical treatments take the dilutions, with ritualised
+shaking between each step of the dilution, past the level where any molecules of
+the original substance are likely to remain; for homeopathic treatments to work,
+basic well-understood concepts in chemistry and physics would have to be wrong.
+There is no evidence that homeopathy is more effective than placebo for any
+condition. 
+
+Australian children suffering from iodine deficiency Thursday, February 23, 2006
+Almost half of all Australian primary school children are mild to moderately
+iodine deficient, researchers say. A new study documenting iodine nutritional
+status in Australian school children has revealed many are not getting enough
+iodine - which can lead to mental and growth retardation. The report's authors
+say iodine deficiency is "the sleeper health issue in Australia", and
+potentially a very serious one. The results of the Australian National Iodine
+Nutrition Study published in the Medical Journal of Australia this week,
+revealed that children in mainland Australia are borderline iodine deficient.
+The report has prompted calls for all edible salt to be iodised. They say adding
+the mineral to salt is the simplest and most effective method of preventing
+iodine deficiency disorders. A cross-sectional survey of 1709 schoolchildren -
+aged 8 – 10 years, from 88 schools - was carried out in New South Wales,
+Victoria, South Australia, Western Australia and Queensland, between July 2003
+and December 2004. Tasmania was excluded from the study - where an voluntary
+iodine fortification program using iodised salt in bread, is ongoing. The
+authors say the results confirm the existence of inadequate iodine intake in the
+Australian population. They call for "urgent implementation of mandatory
+iodisation of all edible salt in Australia." Most iodine in food comes from
+seafood, milk and iodised salt. Professor Cres Eastman, Director of the National
+Iodine Nutrition study, and Chairman of the Australian Centre for Control of
+Iodine Deficiency Disorders, says it is crucial that children and pregnant women
+in particular have an adequate intake of iodine. Iodine deficiency can lead to
+serious health problems including brain damage, stunted growth and deafness.
+Professor Eastman says manufacturers could easily remedy the situation by using
+iodised salt in their products in line with the United States and most European
+countries. "I suspect they won't do that on a voluntary basis, we've tried so
+far and haven't succeeded, so we've convinced the Food Standards of Australia
+and New Zealand | that all salt should be iodised," he said. The report says the
+decline in iodine intake appears to be due to changes in the dairy industry,
+where chlorine-containing sanitisers have replaced iodine-containing sanitisers.
+Iodine released from these chemicals into milk has been the major source of
+dietary iodine in Australia for at least four decades, but is now declining.
+Another contributory factor has been the decreasing consumption of iodised salt
+used in foods. The report states that few if any food manufacturers use iodised
+salt in the preparation and manufacture of foods. Professor Eastman says iodine
+is added to only 10 per cent of Australian salt in contravention of a World
+Health Organisation recommendation that all salt be iodised. He says authorities
+are reacting slowly to his urgent calls for mandatory iodised salt. "The effects
+of iodine deficiency are dependent upon how severe it is and when it occurs. So
+if we go to the pregnant woman, she doesn't get enough iodine, she won't make
+enough thyroid hormone, and the foetus won't get the amount of thyroid hormone
+it needs for adequate and proper development of the brain, so you'll then see
+consequences being loss of IQ, learning difficulties, hearing difficulties and
+other neurological problems," Professor Eastman said. "If an infant's not
+getting enough iodine ... brain development won't be completed and they won't
+grow normally, and as you get older the problem will be that you will develop a
+goiter and your thyroid won't function as well as it should, so that may have
+all sorts of pernicious effects upon normal function in life." More than two
+billion people around the world live in areas prone to iodine deficiency, and
+yet the problem is easily fixed. The World Health Organisation (WHO) recommends
+that every country should iodise all edible salt. The most well known effects of
+IDD are visible goiter and cretinism, a condition characterised by severe brain
+damage occurring in very early life. WHO say Iodine deficiency is the world’s
+most prevalent, yet easily preventable, cause of brain damage. Professor Eastman
+said he is alarmed by what they found. "Pregnant women in Australia are getting
+about half as much as what they require on a daily basis. So that alarms me,
+because there's quite serious potential for adverse effects and brain damage in
+the next generation of children born in this country," he said. "If Iodine
+deficiency is serious you lose 15 IQ points, on average. There shouldn't be
+anyone suffering from iodine deficiency in a developed country like Australia."
+Lydia Buchtmann for Food Standards Australia New Zealand, says they are looking
+at mandatory guidelines on iodine by the end of the year. She says the issue is
+complicated and will take time to get right. We need to "make sure there's
+sufficient iodine added into the food supply, to help those people with a
+deficiency. But at the other end of the scale we've got to make sure the people
+who eat a lot of food - we all know the teenage boy who comes home from school
+and eats a whole loaf of bread - that those people don't get too much and get
+overdose," Ms Bauchtman said. "One of the reasons that iodine is going down is
+because people are taking that good healthy eating message and not adding salt
+during cooking." Senior researcher Mu Li, of the University of NSW's school of
+public health, said "it is reasonable to assume that pregnant women and
+breastfeeding mothers are also iodine deficient, putting the next generation of
+children born in this country at risk of the neuropsychological consequences of
+iodine deficiency." 
+
+Athens (Greek: Αθήνα, Athína), is the capital city of Greece with a metropolitan
+population of 3.7 million inhabitants. It is in many ways the birthplace of
+Classical Greece, and therefore of Western civilization. Understand Old Athens
+The first pre-historic settlements was constructed in 3000 BC around the hill of
+Acropolis. The legend says that the King of Athens, Theseus unified the ten
+tribes of early Athens into one kingdom (c. 1230 BC). This process of
+synoikismos – bringing together in one home – created the largest and wealthiest
+state on the Greek mainland, but it also created a larger class of people
+excluded from political life by the nobility. By the 7th century BC, social
+unrest had become widespread, and the Areopagus appointed Draco to draft a
+strict new law code (hence "draconian"). When this failed, they appointed Solon,
+with a mandate to create a new constitution (594). This was the great beginning
+of a new social revolution, which was the result of the democracy under
+Clisthenes (508 BC). During the Middle Ages, Athens experienced a decline, but
+re-emerged under Byzantian rule. Athens was thriving and prosperous during the
+Crusades, actually benefiting from the Italian trade during this period.
+However, this fruitful period was short-lived, as Greece suffered badly under
+the Ottoman Empire, only to recover in the 19th century as the capital of
+independent Greece. Modern Olympic Games Athens hosted the 2004 Summer Olympic
+Games. While most of the sporting venues were located outside the city proper -
+in various locations throughout Attica - the entire urban area of Athens
+underwent major lasting changes that have improved the quality of life for
+visitors and residents alike. Aside from the excellent transportation
+infrastructure that was completed in time for the 2004 Olympics (from new
+freeways to light rail systems), the city's historic center underwent serious
+renovation. Most notable among the city's facelift projects are the Unification
+of Archaeological Sites - which connects the city's classical - era ruins and
+monuments to each other through a network of pleasant pedestrianized streets -
+and the restoration of the picturesque neoclassical Thissio and Pláka districts.
+The ancient Olympic Games took place in Olympia from 776 BCE to 394 AD. It is a
+lengthy day trip from Athens to visit Olympia, but quite interesting.
+Architecture Athens was just a small provincial village when it was chosen in
+the 1830s to serve as the national capital of the modern Greek State. Although
+it had a prestigious past, the city's political, economic, and cultural
+importance had declined over the centuries, leaving behind only its classical
+ruins as a reminder of better times. With the decision to move the national
+capital from Nafplio to Athens, architects and city planners were hired to build
+a new city next to the classical ruins, with grand neoclassical homes and public
+buildings, large city squares, green spaces, and wide avenues, making a
+conscious, decisive turn from the city's Ottoman past. The city regained its
+importance in Greek civilization, and by 1900 had evolved into a very attractive
+cosmopolitan city, with abundant neoclassical architecture harking to the
+nation's past. The 20th century however, marked the rapid development of Athens.
+The city suffered minor damage during WWII, and suffered extensive urban
+planning in the decades that followed, as the nation rapidly industrialized and
+urbanized. In the 1960s and 1970s, many 19th century neoclassical buildings,
+often small and private, were demolished to make way for office buildings, often
+designed by great Greek architects. The city also expanded outward through rash
+development, particularly towards the west, as its population grew by absorbing
+job-seekers from the provinces. With the onset of the automobile, public
+officials reduced the city's public transportation services without foreseeing
+the traffic gridlock and smog that would menace the city by the 1980s. By the
+late 1980s and early 1990s, the city's reality led to a rude awakening among
+local and national officials and, coupled with the country's new found
+remarkable prosperity, large scale projects began to slowly regenerate the city
+and undo some of the damages of recent decades. Over the course of the next 15
+years, money was poured into new transportation infrastructure projects, the
+restoration of surviving neoclassical buildings, the gentrification of the
+city's historical center and the renovation of many former industrial areas and
+the city's coastline. The restoration of charming neoclassical buildings in the
+city's historical center has been accompanied by the construction of attractive
+post-modern buildings in newer districts; both of which have begun to improve
+the aesthetic essence of the city. Athens today is ever evolving, forging a
+brand new identity for the 21st century. Climate Spring and late autumn are the
+best times to visit Athens. Summer can be extremely hot and dry during
+heatwaves, but this rarely happens. Winter is definitely low season, with the
+occasional rainy or snowy day, but also an ideal time to save money while
+enjoying the city without countless other travelers and tourists. Whilst peak
+traffic hour can be a bit smoggy on the main roads, on most sunny days the skies
+are azure blue. The main reason attributed for the pollution of Athens is
+because the city is enclosed by mountains in a basin which does not let the smog
+leave. The government's ban on diesel vehicles within Athens and the early 1990s
+initiatives to improve car emissions have greatly contributed to better
+atmospheric conditions in the basin. 
+
+Coron Coron is in the province of Palawan, Philippines on Busuanga Island. It is
+the largest town on the island and has the largest share of accommodations.
+Background Coron is both the name of the largest town on the island of Busuanga,
+and the name of a different, smaller island just offshore. The area is famous
+for its World War II wreck diving, and the site has been named in many lists of
+top dive spots in the world. In September 1944, a fleet of Japanese ships hiding
+in the harbor were sunk in a daring raid by the US navy. The result is around
+ten well preserved underwater shipwrecks surrounded with coral reef. There are
+also attractions on Coron Island itself. There are many beautiful white sand
+beaches, mostly tiny and surrounded by large limestone cliffs and wildlife.
+Barracuda and Kayangan lakes are both stunning locations, and good for
+snorkeling, and the island is the ancestral domain of an indigenous tribe who
+are managing the island in a sustainable way and keeping outsiders at a distance
+and offshore at night. History The first inhabitants of Coron were the Tagbanuas
+who belong to the second wave of Indonesians who migrated to this area some
+5,000 years ago. They were a nomadic, seafaring people, living mainly by fishing
+and subsistence agriculture. Although they are now sedentary (with the young
+using cell phones, etc.), they maintain many of their old customs, traditions
+and beliefs. Today, the Tagbanuas remain the dominant if not entire population
+of Coron. In 1902 that Coron was registered as a town and the name of the town
+was officially changed from Penon de Coron to Coron. From 1939 to the outbreak
+of World War II, the municipality experienced the mining boom. Labor shifted
+from farming to mining. In July 1942 the Japanese occupied the mining camps and
+resumed operation of the manganese mines. On September 24, 1944, a group of
+Japanese ships were sunk by American warplanes in Coron waters as the ships
+retreated from Manila Bay. To this day, about 10 or 12 of these World War II
+Japanese shipwrecks comprise what is considered one of the best dive sites in
+the world. In 1947, large scale deep sea fishing was introduced to Coron, and
+the town experienced another boom, a fishing boom. The population increased, as
+many people from Luzon and the Visayas came to work either as fishermen or
+miners. On June 17, 1950, Busuanga was officially created as a separate
+municipality from Coron and in 1954, Coron was further reduced by the official
+creation of the Municipality of Linapacan. On September 12, 1992, Coron was
+finally reduced by the official creation of the Municipality of Culion. In the
+past, Coron was virtually unknown outside of Palawan. It remains a small, quaint
+fishing town with laid back charm but with increasing media exposure it is
+growing, slowly but steadily, Coron has taken an important position in the
+tourism industry. In the past decade, there has been a rapid influx of scuba
+divers and other tourists coming in, making tourism the major industry player in
+Coron today. 
+
+Isfahan Isfahan (Persian: اصفهان, also known as Esfahan) is a city in central
+Iran, south of Tehran and is the capital of Isfahan Province. The Persians call
+it "Nesf-e-Jahan", meaning "Half The World". Due to its beautiful hand-painted
+tiling and magnificent public square, it is considered to be one of the most
+beautiful cities in the world. An ancient town and capital of Persia from 1598
+to 1722, it was long noted for its fine carpets and silver filigree. Today,
+textile and steel mills take their place. Its architecture, tree-lined
+boulevards and relaxed pace make it one of the highlights of Iran. Understand
+The city is 430 kmsouth of Tehran at the foothills of the Zagros mountain range.
+The city enjoys a temperate climate and regular seasons. Isfahan is located on
+the main north-south and east-west routes crossing Iran. The city has an
+Armenian Quarter called Jolfa (originally called New Julfa) established by Shah
+Abbas I in the 1600s after he destroyed the prosperous Armenian town of Julfa in
+Armenia and forced all of the Armenians to move to Persia, mostly to Isfahan.
+They were allocated land and rebuilt a prosperous community that was a key part
+of an Armenian trade network extending from Singapore and India to Venice and
+Amsterdam. Today the quarter still has many Armenian Churches, an Armenian
+school, shops and Armenian residents. Get in By plane Isfahan International
+Airport or Isfahan Shahid Beheshti (IATA: IFN) was a military air base before
+the revolution. There are daily flights to Tehran and Mashhad in Iran. There are
+also flights to Damascus, Dubai, Kuwait and Istanbul. From the Airport you can
+take cab for c. IRR 200,000to the city centre. Since most people are going there
+anyway, you can always ask people to share taxi. See Squares and streets Naqsh-e
+Jahan Square 1 Naqsh-e Jahan Square. Also known as shah square or imam square -
+1602 (Meidan Emam). The square contains two mosques, a palace, and the bazaar.
+The square is the largest historical public square in the world after Tiananmen
+Square in Beijing and it is a UNESCO World Heritage Site. The square is
+surrounded by buildings from the Safavid era. This a very popular place for
+locals to picnic on Friday and holiday evenings. 2 Chaharbagh Boulevard. 1596,
+dating from the Saffavid era, the avenue is the most historically famous in all
+of Persia. Meydan Kohne. Shahshahan Square. Mosques Shah Mosque Sheikh Lotfollah
+Mosque, interior of the dome The stunning mosques of Isfahan are among the most
+beautiful and interesting in the world. 3 Imam Mosque (called Shah Mosque before
+the revolution), Naqsh-e Jahan Square, south side. Built during the Safavid
+period, it is an excellent example of Islamic architecture of Iran, and regarded
+as one of the masterpieces of Persian Architecture. It is registered as a UNESCO
+World Heritage Site. Its splendour is mainly due to the beauty of its
+seven-colour mosaic tiles and calligraphic inscriptions. 4 Sheikh Lotf Allah
+Mosque, Naqsh-e Jahan Square, east side. One of the architectural masterpieces
+of Safavid Iranian architecture, this mosque is considered to be the most
+beautiful in Iran. Built in 1602 by Shah Abbas I.= and designed by his chief
+architect, Sheikh Bahai. The mosque was designed to be a private mosque for the
+royal family and therefore it does not have any minarets. There is a tunnel from
+the mosque to the Royal Palace, across the square. 5 Masjed-e Jāmé of Isfahan,
+north of Naqsh-e Jahan Square in the old quarter. Started in AD 842, this is the
+first Islamic building to adopt the four-courtyard layout of Sassanid palaces. 6
+Hakim Mosque, Hakim (north of Naqsh-e Jahan in the old quarter). One of the
+oldest mosques in Isfahan. Built by Shah Abbas II between 1656 and 1662. Located
+on the site of a 10th century mosque. The portal was covered in mud until it was
+discovered in 1956. Palaces Ali Qapu Palace Chehel Sotoun 7 Ālī Qāpū (The Royal
+Palace). Early 17th Century. It is forty-eight meters high and there are seven
+floors, each accessible by a difficult spiral staircase. In the sixth floor
+music room, deep circular niches are found in the walls, having not only
+aesthetic value, but also acoustic. It is rich in naturalistic wall paintings by
+Reza Abbassi, the court painter of Shah Abbas I, and his pupils. There are
+floral, animal and bird motifs. 8 Hasht Behesht (The Palace of Eight Paradises).
+1669, reportedly built for residence purposes of the king's harem. Set within
+lush gardens which are free to roam if you don't want to go inside the building.
+9 Chehel Sotoun (The Palace of Forty Columns). 1647: It is called Palace of
+forty columns, as there are many columns, and in Iranian, 40 means many.
+Incidentally, there are twenty columns, and these are reflected in the pool in
+front, which might also account for its name. The function of this palace was
+for holding religious-national ceremonies and royal festivals and for receiving
+royal ambassadors and guests. It's Persian Gardens is one of nine inscribed on
+the UNESCO World Heritage List. Contains some spectacular battle murals. 
+
+How to Tell a Joke Two Parts: Getting the Material Right Getting the Delivery
+Right From one-liners to classic three-liners to the one-minute gag you tell
+your friends, a good joke pleases everyone. Joke-telling is one of the best ways
+to ease tension, make a new friend, or light up a room. That is, of course, if
+you can get a laugh. Telling good jokes is an art that comes naturally to some
+people, but for others it takes practice and hard work. Part 1 of 2: Getting the
+Material Right Know your audience. All aspects of the joke you tell, from the
+content to the length, need to be suited to your audience. What’s funny to a
+group of 20-year old college students may be very different from what makes your
+70-year old - uncle laugh (then again, maybe not). Everyone’s an individual, so
+there are no hard and fast rules. But, unless you personally know the members of
+your audience, here are some good rules of thumb to follow: elderly people won’t
+like crude jokes; stay away from misogynist jokes if you’ve got an audience full
+of women; people of a specific ethnic or racial group won’t enjoy jokes making
+fun of their group; and jokes requiring specialized knowledge (of, for example,
+science or old movies) will only be appreciated by people who possess that
+knowledge. The more you know about your audience the better you’ll be able to
+tailor your jokes to them. Choose great material. You can find fodder lots of
+places — from your life, joke files online, by repurposing jokes you’ve heard in
+the past, and so on. You may want to start your own joke file. You can write
+your jokes down on index cards to keep them handy or use a document file on your
+computer. [1] The latter option may allow for easier revision. Decide on a
+target. Every joke has a “target,” which is what the joke is about. It’s
+important that the joke’s target (the most basic element of your material) be
+suited to your audience. Make sure it’s a target your audience will be
+interested in and something they ’re likely willing to laugh at. [2] For
+example, husbands are likely to laugh at jokes about wives and vice versa;
+students will typically find jokes about school and teachers humorous. Have a
+realistic but exaggerated setup. The opening of the joke — or setup — should
+have a basis in the real world so your audience can relate to it, but it should
+also include exaggeration because this is what gives a joke its humorous edge.
+[3] Think of the setup as the foundation of a story. It’s a fundamental part of
+the joke; if you don’t lay a good foundation here, then the punchline won’t make
+sense to the audience or they won’t find it humorous. Your setup needs to be
+both realistic and exaggerated in order to be funny — it’s placing these two
+incongruous elements side by side that makes the joke funny. [4] The
+exaggeration can be slight or considerable — it just depends on the individual
+joke. Surprise with the punchline. The ending of the joke is obviously crucial.
+This is where the payoff comes in, what makes the joke succeed or fail. If you
+want to make the audience laugh, your punchline needs to be surprising. Some
+jokes also have what is called a tag or topper, which is an additional
+punchline. The tag builds on the original punchline or twists back on it in a
+surprising way. Make the joke your own. Lots of jokes rehash the same ground and
+sometimes they retell a story countless other jokes have told. For your joke to
+be funny, it has to surprise the audience in some way, which means it has to
+seem original or new. One way to personalize a joke is to change the ending. [5]
+Another option is to dress the joke up as a story about your own life. This will
+make a familiar joke unrecognizable. It may also make it particularly
+interesting if your audience is your friend(s). [6] Know your material.
+Practicing your joke is crucial. You don’t need to have it completely memorized
+— in fact, you "shouldn’t" memorize it — but you need to be really comfortable
+with it, so comfortable that you can continue on with telling it even if you get
+nervous or sidetracked, which is very possible once you ’re in front of an
+audience. Memorized jokes sound wooden, like they are being read off a script
+instead of relayed by a friend or entertainer. Good jokes have a lot of details
+and personality, so don’t be afraid to embellish. [7] Try different things out
+and see what feels right, what sounds best. Don’t use a joke until you ’re
+completely comfortable with it. Try recording your joke on a tape player and
+playing it back to yourself. If you hear a lot of awkward pauses or “ah”s or
+“um”s, your joke isn ’t ready and you need to practice more. [8] You can also
+try practicing in front of a sympathetic friend or family member once you ’re
+ready for a “real” audience. 
+
+How to Wash Overalls in a Washing Machine Whether you are a working man or just
+a little cutie trying to stay cute, those overalls are going to need washing
+sooner or later. The straps on adults’ overalls often get so twisted during the
+wash that one wishes she had just used an old fashioned washboard instead. Your
+appliances are also murder on the straps, which are almost always the first
+things to wear out on your overalls. This article will show you how to save time
+and prevent wear, extending the life of your overalls until they are so soft you
+could wear them to bed. Steps Wash alone or with "like" clothing. It’s best to
+wash adults’ overalls alone, especially men’s. However, it is okay to wash just
+a few items with them, like blue jeans. What you don’t want to wash with them is
+anything that can get twisted up with the straps, like women’s long sleeve
+shirts or kids’ blankets. Think similar clothing, minus the twisty-ness. Just do
+the denim and canvas stuff together. Fasten the straps to the bib. If you didn’t
+know already, the bib is the top front part with the breast pockets. Go ahead
+and fasten both straps before you wash. This will help keep them from twisting
+up during the wash. Use twist ties to keep the straps fastened. This step will
+reapportion years of your life in the long run. Don’t skip it. Take the 20
+seconds to use a couple twist ties on the fasteners to make sure they don’t come
+loose. If your washing machine is worth its salt, it will undo those straps in a
+heartbeat and tie them in a sheet bend unless you prevent it. All it takes is
+two twist ties and a few seconds of patience. Empty the pockets. Overalls have
+more pockets than pants. The bib has a wallet pocket and a watch pocket. Kids
+put rocks, candy, and bugs in these. Men put cell phones and small tools in
+them. Women defy the laws of purse-space, so when it comes to bib pockets, the
+sky is the limit. Make sure all the pockets are empty. Move the strap adjusters
+around. You’ve probably got them just the way you like them, but if you move the
+adjusters up or down on the straps occasionally, the straps will last longer.
+Depending on the adjusters, you may be able to leave them a little loose too.
+The straps wear out fastest around the adjusters over the course of numerous
+wash and dry cycles (not to mention being out in the elements if they are work
+clothes). Moving them distributes the wear and tear of washing. This is the same
+idea as rotating tires. You know about rotating your tires, don't you? Tips If
+you wash your overalls alone or in a light load, use about half the detergent
+called for and less water. Leave the straps fastened and twist-tied to the bib
+when you throw them in the dryer. This will cut down on some of the racket, but
+you 're still going to hear them. Warnings The paper-type twist ties will
+deteriorate a little, but the dryer filter screen will catch the fallout.
+Plastic-type twist ties will hold up in the wash, but may or may not melt in
+your dryer. Use with caution. 
+
+How to Make Skittles Vodka Three Methods: Single Serving (25 mL Shot) Bottles of
+"Skittled" Vodka Dishwasher Bottle Method Making Skittles vodka is a fun way to
+add a splash of fruity flavor and color to regular vodka. All you need to do is
+place your favorite combination of Skittles candies into a glass or bottle of
+vodka and wait for it to infuse. You can then use your Skittles vodka to make
+brightly-colored cocktails or even serve it as a sugary shot! Find multiple
+methods for making Skittles vodka after the jump -- and soon you'll be tasting
+the rainbow! Ingredients A handle (1.75 liters, about a half gallon) of vodka
+per bag of Skittles A large bag of Skittles candy (the "movie size" bag) Method
+1 of 3: Single Serving (25 mL Shot) Separate the colors of Skittles that you
+want to flavor the vodka with. Many people choose to leave out the green, which
+is lime if you 're using original Skittles, and purple, which is grape in the
+original style, as they can create a weird taste combination or a less than
+appealing color for the final product. However, you can put them in if you want.
+If you don't mind mixed flavors, you can just skip this step altogether. Add six
+Skittles to 25 ml of vodka. Keep swirling the mixture until the Skittles are
+almost completely dissolved. Note that the ratio of Skittles to vodka varies
+from recipe to recipe. You should experiment to find your preferred mix before
+making larger bottles. Filter out the remaining Skittle "insides". With single
+servings like this, you can decide which flavor(s) you like best and proceed to
+making bottles, if you desire. Method 2 of 3: Bottles of "Skittled" Vodka Pour
+out some vodka from a bottle to make room for Skittles. Separate the Skittles by
+color. Add the Skittles (20 - 25 per 350 ml / 11.8 fl oz). Let the mixture sit
+for a day or two. Shake occasionally so the flavour mixes well. Strain out the
+Skittles using a filter, such as a paper coffee filter or a clean t-shirt.
+Refrigerate overnight. Method 3 of 3: Dishwasher Bottle Method Separate the
+colors from five bags of 200 g Skittles. Using 5 x 700 ml / 23.6 fl oz bottles,
+pour 300 ml / 10.1 fl oz of vodka into a jug and fill each bottle with skittles.
+Place the bottles in your dishwasher and put on an intensive cycle. One third of
+of the way through the cycle, shake all bottles vigorously. Two thirds of the
+way through the cycle, shake all bottles vigorously. Once the cycle has
+finished, shake all bottles vigorously again. Then place in the freezer for 2
+hours. Once the vodka is cold, it should be syrupy. Take a sieve, line it with a
+piece of cheesecloth (muslin) or a coffee filter, place above a large jug and
+pour the vodka through slowly. Once the first bottle has been filtered, wash out
+the bottle and pour the Skittles vodka back in. Repeat the above two steps for
+all bottles, ensuring that everything is cleaned between uses to prevent color
+contamination. Place all of the bottles in the freezer until you are ready to
+drink. Don't worry, the vodka won't freeze. You are finished. Enjoy your tasty
+creation. Tips. If you want to make it more quickly, cut the skittles in half
+before putting them into vodka. Shake every 15 minutes. They'll dissolve in an
+hour instead of a day. Or you could just scoop them out when the color
+dissolves. Start with small amount of vodka and Skittles at first to experiment
+which combination of taste suits you best. You can carry this out with larger
+amount of vodka and Skittles once you have decided that you enjoy the taste. The
+lime green Skittles add a sourness to the drink, so if you want one that's
+sweet, leave the green ones out and add them to their own bottle for a sour lime
+vodka. Another approach is to buy five bottles of vodka and five bags of
+Skittles. Then separate the candy and use one flavor for each bottle. (Or get
+four bottles and an empty, to allow room for the skittles.) If using a t-shirt
+to strain, be sure fabric softener or a dryer sheet had not been used with it,
+lets you get some extra (unwanted) flavoring (and potentially toxic chemicals).
+Warnings Drink responsibly. Never drink and drive. Know your limits, and do not
+drink to the extent of intoxication. Do not drink if underage in your country.
+Things You'll Need Each handle of vodka (1.75 liters, about a half gallon)
+requires a large bag worth of Skittles, so if you plan on doing only one flavor
+for a flavorful vodka, you'll have to buy 5 large bags of Skittles. Coffee
+filter, cheesecloth / muslin, or an extremely clean T-shirt Large funnel or
+strainer to hold filter 
