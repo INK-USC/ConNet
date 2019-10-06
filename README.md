@@ -46,14 +46,15 @@ python test_seq_aggregation.py -h
 sh Cross_Domain/scripts/submit_read_data.sh
 ```
 
-* Train and evaluate on UD-GUM:
+* Train and evaluate on UD-GUM by running commands in
+```
+Cross_Domain/scripts/submit_train_ud.sh
+```
 
-run commands in Cross_Domain/scripts/submit_train_ud.sh
-
-* Train and evaluate on OntoNotes: 
-
-run Cross_Domain/scripts/submit_train_on.sh
-
+* Train and evaluate on OntoNotes by running commands in
+```
+Cross_Domain/scripts/submit_train_on.sh
+```
 
 
 ## Citation
