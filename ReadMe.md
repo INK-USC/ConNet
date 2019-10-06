@@ -1,11 +1,8 @@
-# Vanilla NER
+# ConNet
 
-This project is drivied from [VanillaNER](https://github.com/LiyuanLucasLiu/Vanilla_NER), and provides a vanilla Char-LSTM-CRF model for Named Entity Recognition (train vanilla NER models w. pre-trained embedding). 
+This project is for ``Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling".
 
-
-## Training
-
-### Dependency
+## Dependency
 
 Our package is based on Python 3.6 and the following packages:
 ```
@@ -15,35 +12,33 @@ torch-scope
 torch==0.4.1
 ```
 
-### Pre-processing
+## Crowd-Sourcing
 
-Please first generate the word dictionary by:
+* Generate the word dictionary by:
 ```
 python pre_seq/gene_map.py -h
 ```
 
-Then encode the dictionary by:
+* Encode the dictionary by:
 ```
 python pre_seq/encode_data.py -h
 ```
 
-### Training
-
-Extraction Phase:
+* Train/Test the decoupling phase by:
 ```
-./scripts/train_extraction.sh
-```
-
-Aggregation Phase:
-```
-./scripts/train_aggregation.sh
+python train_seq_decoupling.py -h
+python test_seq_decoupling.py -h
 ```
 
-## Inference
+* Train/Test the aggregation phase by:
+```
+python train_seq_aggregation.py -h
+python test_seq_aggregation.py -h
+```
 
-```
-./scripts/test_extraction.sh
-```
+## Cross-Domain
+
+
 
 ## Citation
 
