@@ -47,9 +47,11 @@ sh Cross_Domain/scripts/submit_read_data.sh
 ```
 
 * Train and evaluate on UD-GUM:
+
 run commands in Cross_Domain/scripts/submit_train_ud.sh
 
 * Train and evaluate on OntoNotes: 
+
 run Cross_Domain/scripts/submit_train_on.sh
 
 
