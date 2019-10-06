@@ -38,6 +38,14 @@ python test_seq_aggregation.py -h
 
 ## Cross-Domain
 
+* Universal Dependencies - GUM (Zeldes, 2017) dataset is included.
+* Download OntoNotes-5.0 dataset https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO/releases
+
+* Data preprocessing: run Cross_Domain/scripts/submit_read_data.sh
+
+* Train and evaluate on UD-GUM: run Cross_Domain/scripts/submit_train_ud.sh
+* Train and evaluate on OntoNotes: run Cross_Domain/scripts/submit_train_on.sh
+
 
 
 ## Citation
