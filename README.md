@@ -57,14 +57,3 @@ Cross_Domain/scripts/submit_train_on.sh
 ```
 
 
-## Citation
-
-[Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling](https://arxiv.org/abs/1804.07827)
-```
-@inproceedings{liu2018efficient,
-  title = "{Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling}", 
-  author = {Liu, Liyuan and Ren, Xiang and Shang, Jingbo and Peng, Jian and Han, Jiawei}, 
-  booktitle = {EMNLP}, 
-  year = 2018, 
-}
-```
