@@ -57,16 +57,22 @@ python test_seq_aggregation.py -h
 
 ## Cross-Domain
 
+* Universal Dependencies - GUM (Zeldes, 2017) dataset is included.
+* Download OntoNotes-5.0 dataset from https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO/releases
 
-
-## Citation
-
-[Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling](https://arxiv.org/abs/1804.07827)
+* Preprocess data by: 
 ```
-@inproceedings{liu2018efficient,
-  title = "{Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling}", 
-  author = {Liu, Liyuan and Ren, Xiang and Shang, Jingbo and Peng, Jian and Han, Jiawei}, 
-  booktitle = {EMNLP}, 
-  year = 2018, 
-}
+sh Cross_Domain/scripts/submit_read_data.sh
 ```
+
+* Train and evaluate on UD-GUM by running commands in
+```
+Cross_Domain/scripts/submit_train_ud.sh
+```
+
+* Train and evaluate on OntoNotes by running commands in
+```
+Cross_Domain/scripts/submit_train_on.sh
+```
+
+
