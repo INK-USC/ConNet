@@ -22,6 +22,11 @@ If you make use of this code or the RE-Net algorithm in your work, please cite t
 }
 ```
 
+## Quick Links
+* [Dependency](##Dependency)
+* [Datasets](##Datasets)
+* [Training/Evaluation](##Training/Evaluation)
+
 ## Dependency
 
 Our package is based on Python 3.6 and the following packages:
@@ -32,10 +37,19 @@ torch-scope
 torch==0.4.1
 ```
 
-## Crowd-Sourcing
+## Datasets
+### Learning with crowd annotations
+
+### Unsupervised cross-domain model adaptation
+* [Universal Dependencies - GUM (Zeldes, 2017)](https://github.com/INK-USC/ConNet/tree/master/Cross_Domain/data/ud-treebanks-v2.3/UD_English-GUM) - included
+* [OntoNotes-5.0](https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO/releases)
+
+## Training/Evaluation
+### Learning with crowd annotations
 
 * Generate the word dictionary by:
 ```
+cd crowdsourcing
 python pre_seq/gene_map.py -h
 ```
 
@@ -56,24 +70,22 @@ python train_seq_aggregation.py -h
 python test_seq_aggregation.py -h
 ```
 
-## Cross-Domain
-
-* Universal Dependencies - GUM (Zeldes, 2017) dataset is included.
-* Download OntoNotes-5.0 dataset from https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO/releases
+### Unsupervised cross-domain model adaptation
 
 * Preprocess data by: 
 ```
-sh Cross_Domain/scripts/submit_read_data.sh
+cd crossdomain
+sh scripts/submit_read_data.sh
 ```
 
 * Train and evaluate on UD-GUM by running commands in
 ```
-Cross_Domain/scripts/submit_train_ud.sh
+sh scripts/submit_train_ud.sh
 ```
 
 * Train and evaluate on OntoNotes by running commands in
 ```
-Cross_Domain/scripts/submit_train_on.sh
+sh scripts/submit_train_on.sh
 ```
 
 
