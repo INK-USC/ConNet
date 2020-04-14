@@ -85,13 +85,11 @@ sh scripts/submit_train_on.sh
 ## Citation
 If you make use of this code or the RE-Net algorithm in your work, please cite the following paper:
 ```
-@misc{lan2019learning,
-    title={Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling},
-    author={Ouyu Lan and Xiao Huang and Bill Yuchen Lin and He Jiang and Liyuan Liu and Xiang Ren},
-    year={2019},
-    eprint={1910.04289},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{Lan2020,
+  title={Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling},
+  author={Ouyu Lan and Xiao Huang and Bill Yuchen Lin and He Jiang and Liyuan Liu and Xiang Ren}, 
+  booktitle={Proc. of ACL},
+  year={2020}
 }
 ```
 
